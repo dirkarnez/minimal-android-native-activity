@@ -1,6 +1,6 @@
 minimal-android-native-activity
 ===============================
-WIP - Compilation successful but the app crashed. Based on https://github.com/android/ndk-samples/tree/main/native-activity.
+WIP - Compilation successful but the app crashed. Based on [skanti/Android-Manual-Build-Command-Line: Sample Code on the creation of Android APKs using command line & makefile only.](https://github.com/skanti/Android-Manual-Build-Command-Line) and https://github.com/android/ndk-samples/tree/main/native-activity.
 
 - [dirkarnez/android-cmake-example](https://github.com/dirkarnez/android-cmake-example)
 
